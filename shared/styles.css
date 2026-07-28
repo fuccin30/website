@@ -322,6 +322,11 @@ h3 {
   padding-bottom: 0;
 }
 
+.plain-list .project-links {
+  border-top: 0;
+  padding: 0.45rem 0 0;
+}
+
 .paper-details summary {
   color: var(--link);
   cursor: pointer;
